@@ -1,0 +1,15 @@
+C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich8kt\bin\Debug\net6.0\githubminich8kt.exe
+C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich8kt\bin\Debug\net6.0\githubminich8kt.deps.json
+C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich8kt\bin\Debug\net6.0\githubminich8kt.runtimeconfig.json
+C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich8kt\bin\Debug\net6.0\githubminich8kt.dll
+C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich8kt\bin\Debug\net6.0\githubminich8kt.pdb
+C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich8kt\obj\Debug\net6.0\githubminich8kt.csproj.AssemblyReference.cache
+C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich8kt\obj\Debug\net6.0\githubminich8kt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich8kt\obj\Debug\net6.0\githubminich8kt.AssemblyInfoInputs.cache
+C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich8kt\obj\Debug\net6.0\githubminich8kt.AssemblyInfo.cs
+C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich8kt\obj\Debug\net6.0\githubminich8kt.csproj.CoreCompileInputs.cache
+C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich8kt\obj\Debug\net6.0\githubminich8kt.dll
+C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich8kt\obj\Debug\net6.0\refint\githubminich8kt.dll
+C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich8kt\obj\Debug\net6.0\githubminich8kt.pdb
+C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich8kt\obj\Debug\net6.0\githubminich8kt.genruntimeconfig.cache
+C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich8kt\obj\Debug\net6.0\ref\githubminich8kt.dll
