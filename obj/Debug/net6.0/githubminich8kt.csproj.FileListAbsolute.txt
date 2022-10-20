@@ -13,3 +13,18 @@ C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich8k
 C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich8kt\obj\Debug\net6.0\githubminich8kt.pdb
 C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich8kt\obj\Debug\net6.0\githubminich8kt.genruntimeconfig.cache
 C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich8kt\obj\Debug\net6.0\ref\githubminich8kt.dll
+C:\Users\Reyes\Documents\GitRepository\githubminich8kt\bin\Debug\net6.0\githubminich8kt.exe
+C:\Users\Reyes\Documents\GitRepository\githubminich8kt\bin\Debug\net6.0\githubminich8kt.deps.json
+C:\Users\Reyes\Documents\GitRepository\githubminich8kt\bin\Debug\net6.0\githubminich8kt.runtimeconfig.json
+C:\Users\Reyes\Documents\GitRepository\githubminich8kt\bin\Debug\net6.0\githubminich8kt.dll
+C:\Users\Reyes\Documents\GitRepository\githubminich8kt\bin\Debug\net6.0\githubminich8kt.pdb
+C:\Users\Reyes\Documents\GitRepository\githubminich8kt\obj\Debug\net6.0\githubminich8kt.csproj.AssemblyReference.cache
+C:\Users\Reyes\Documents\GitRepository\githubminich8kt\obj\Debug\net6.0\githubminich8kt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reyes\Documents\GitRepository\githubminich8kt\obj\Debug\net6.0\githubminich8kt.AssemblyInfoInputs.cache
+C:\Users\Reyes\Documents\GitRepository\githubminich8kt\obj\Debug\net6.0\githubminich8kt.AssemblyInfo.cs
+C:\Users\Reyes\Documents\GitRepository\githubminich8kt\obj\Debug\net6.0\githubminich8kt.csproj.CoreCompileInputs.cache
+C:\Users\Reyes\Documents\GitRepository\githubminich8kt\obj\Debug\net6.0\githubminich8kt.dll
+C:\Users\Reyes\Documents\GitRepository\githubminich8kt\obj\Debug\net6.0\refint\githubminich8kt.dll
+C:\Users\Reyes\Documents\GitRepository\githubminich8kt\obj\Debug\net6.0\githubminich8kt.pdb
+C:\Users\Reyes\Documents\GitRepository\githubminich8kt\obj\Debug\net6.0\githubminich8kt.genruntimeconfig.cache
+C:\Users\Reyes\Documents\GitRepository\githubminich8kt\obj\Debug\net6.0\ref\githubminich8kt.dll
